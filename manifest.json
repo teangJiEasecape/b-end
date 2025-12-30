@@ -2,33 +2,33 @@
   "name": "방자전",
   "short_name": "방자전",
   "description": "방자전",
-  "start_url": "/servant_gallerya/",
+  "start_url": "/servant_galleryb/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/servant_gallerya/img/icon.png",
+      "src": "/servant_galleryb/img/icon.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/servant_gallerya/img/icon.png",
+      "src": "/servant_galleryb/img/icon.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/servant_gallerya/img/icon.png",
+      "src": "/servant_galleryb/img/icon.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/servant_gallerya/img/icon.png",
+      "src": "/servant_galleryb/img/icon.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/servant_gallerya/img/icon.png",
+      "src": "/servant_galleryb/img/icon.png",
       "sizes": "168x168",
       "type": "image/png"
     },

@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   btn.addEventListener('click', () => {
     if (isComposing) return; // 한글 조합 중이면 무시
 
-    const answer = "A9F!Q2@KR#7MX$4ZP8";
+    const answer = "TL7@M$9Q!X2#A8";
 
     const userValue = input.value
       .trim()
