@@ -46,3 +46,5 @@ main .result-box{ margin-top: 20px; display: none; }
 main .result-box.show{ display: block; }
 main .failure-box{ margin-top: 20px; text-align: center; color: rgb(185, 0, 0);  display: none; }
 main .failure-box.show{ display: block; }
+
+main .result-box video{ max-width: 100%; }

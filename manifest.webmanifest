@@ -1,8 +1,8 @@
 {
-  "name": "C-END",
-  "short_name": "C-END",
-  "description": "C-END",
-  "start_url": "/servant_galleryb/",
+  "name": "B-END",
+  "short_name": "B-END",
+  "description": "B-END",
+  "start_url": "/b-end/",
   "display": "standalone",
   "background_color": "#fff",
   "icons": [
